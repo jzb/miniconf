@@ -2,3 +2,4 @@ site_name: Clouds, Containers, and Orchestration Miniconf
 pages: 
 - [index.md, Home]
 - [format.md, Submission Template]
+theme: yeti
