@@ -2,14 +2,31 @@
 
 "Software defined everything," DevOps, and cloud are driving open source further and faster than we might have imagined possible just a decade ago. Most recently, Docker containers and orchestration have opened up all kinds of new opportunities to develop, deploy, and manage software from the developer's desktop well into production.
 
-The miniconf will focus on the open source tools and best practices for working with cloud tools, containers, and orchestration software (e.g., Kubernetes, Apache Mesos, geard, and others). We'll have the leading developers working on those tools, as well as users who are deploying them in real production environments to share their knowledge and show where tools will be going in 2015.
+## Call for Presentations
 
+The miniconf will focus on the open source tools and best practices for working with cloud tools, containers, and orchestration software (e.g., Kubernetes, Apache Mesos, and others). We want the leading developers working on those tools, as well as users who are deploying them in real production environments to share their knowledge and show where tools will be going in 2015.
 
-## Call for Papers
+We welcome talks on container security, creeating complex applications in the cloud, working with open source Platforms-as-a-Service, container orchestration, packaging applications in containers, single-purpose operating sytems, and presentations on the state and future of these applications from their developers.
+
+Presentations should be useful to practicioners, and technical in nature. Talks should **not** be promotional in nature. 
 
 ### Format for Presentations
 
+As we only have one day, presentation slots will be shorter than many speakers may be used to. Most talks will be 20 minutes, with the possibility for one or two longer slots for exceptionally interesting and involved topics. 
+
+Please indicate which type of presentation you're seeking:
+
+* 20 minute full presentation.
+* 10 minute "case study" or "state of project" presentation.
+* 40 minute double-length presentation.
+
+Final configuration of talk/times is pending submissions received.
+
 ### Submitting Talks
+
+Please see the [Submission Template](http://dissociatedpress.net/miniconf/format/] and submit your proposal to **miniconf** *[at]* **dissociatedpress.net**. Please include **[LCA15 CFP]** and talk title in your subject line. (For example: [LCA15 CFP: Whiz-Bang Container Wrangling with Docker and Acme Widgets].)
+
+Note: In order to present at the miniconf, you *must* be registered for the main Linux.conf.au conference, and presnting at the miniconf does *not* entitle speakers to registration at the main conference, or any travel sponsorship.
 
 ## Important Dates
 
