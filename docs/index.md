@@ -6,9 +6,9 @@
 
 The miniconf will focus on the open source tools and best practices for working with cloud tools, containers, and orchestration software (e.g., Kubernetes, Apache Mesos, and others). We want the leading developers working on those tools, as well as users who are deploying them in real production environments to share their knowledge and show where tools will be going in 2015.
 
-We welcome talks on container security, creeating complex applications in the cloud, working with open source Platforms-as-a-Service, container orchestration, packaging applications in containers, single-purpose operating sytems, and presentations on the state and future of these applications from their developers.
+We welcome talks on container security, creating complex applications in the cloud, working with open source Platforms-as-a-Service, container orchestration, packaging applications in containers, single-purpose operating sytems, and presentations on the state and future of these applications from their developers.
 
-Presentations should be useful to practicioners, and technical in nature. Talks should **not** be promotional in nature. 
+Presentations should be useful to practitioners, and technical in nature. Talks should **not** be promotional in nature. 
 
 ### Format for Presentations
 
@@ -24,7 +24,7 @@ Final configuration of talk/times is pending submissions received.
 
 ### Submitting Talks
 
-Please see the [Submission Template](http://dissociatedpress.net/miniconf/format/] and submit your proposal to **miniconf** *[at]* **dissociatedpress.net**. Please include **[LCA15 CFP]** and talk title in your subject line. (For example: [LCA15 CFP: Whiz-Bang Container Wrangling with Docker and Acme Widgets].)
+Please see the [Submission Template](http://dissociatedpress.net/miniconf/format/) and submit your proposal to **miniconf** *[at]* **dissociatedpress.net**. Please include **[LCA15 CFP]** and talk title in your subject line. (For example: *[LCA15 CFP] Whiz-Bang Container Wrangling with Docker and Acme Widgets*.)
 
 Note: In order to present at the miniconf, you *must* be registered for the main Linux.conf.au conference, and presnting at the miniconf does *not* entitle speakers to registration at the main conference, or any travel sponsorship.
 
