@@ -1,5 +1,13 @@
 site_name: Clouds, Containers, and Orchestration Miniconf
 pages: 
 - [index.md, Home]
-- [format.md, Submission Template]
+- [herding.md, 'Program', 'Cloud Herding']
+- [building.md, 'Program', 'Building a PaaS with Docker Kubernetes and Hard Work']
+- [aws.md, 'Program', 'AWS OpsWorks Orchestration War Stories']
+- [challenges.md, 'Program', 'The Challenges of Containerizing your Datacenter']
+- [lxd.md, 'Program', 'LXD The Container-Based Hypervisor That Is Not']
+- [rocket.md, 'Program', 'Rocket and the App Container Spec']
+- [slim.md, 'Program', 'Slim Application Containers from Source']
+- [synchronous.md, 'Program', 'How Synchronous Replication and Linux Containers Mesh Together']
+- [panel.md, 'Program', 'Miniconf Panel']
 theme: yeti

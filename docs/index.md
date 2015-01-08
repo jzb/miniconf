@@ -1,46 +1,26 @@
 # Clouds, Containers, and Orchestration Miniconf (Linux.conf.au 2015)
 
-"Software-defined everything", DevOps, and cloud are driving open source further and faster than we might have imagined possible just a decade ago. Most recently, Docker containers and orchestration have opened up all kinds of new opportunities to develop, deploy, and manage software from the developer's desktop well into production.
-
-## Call for Presentations
-
-The miniconf will focus on the open source tools and best practices for working with clouds, containers, and orchestration software (e.g., Kubernetes, Apache Mesos, and others). We want the leading developers working on those tools, as well as users who are deploying them in real production environments, to share their knowledge and show where tools will be going in 2015.
-
-We welcome talks on container security, creating complex applications in the cloud, working with open source Platforms-as-a-Service, container orchestration, packaging applications in containers, single-purpose operating systems, and the state and future of these applications as viewed by their developers.
-
-Presentations should be useful to practitioners, and technical in nature. Talks should **not** be promotional in nature. 
-
-### Format for Presentations
-
-As we have only one day, presentation slots will be shorter than many speakers may be used to. Most talks will be 20 minutes, with the possibility for one or two longer slots for exceptionally interesting and involved topics. 
-
-Please indicate which type of presentation you're seeking:
-
-* 20-minute full presentation.
-* 10-minute "case study" or "state of project" presentation.
-* 40-minute double-length presentation.
-
-The final configuration of talks/times is pending submissions received.
-
-### Submitting Talks
-
-Please see the [Submission Template](http://dissociatedpress.net/miniconf/format/) and submit your proposal to **miniconf** *[at]* **dissociatedpress.net**. Please include **[LCA15 CFP]** and the talk title in your subject line. (For example: *[LCA15 CFP] Whiz-Bang Container Wrangling with Docker and Acme Widgets*.)
-
-Note: In order to present at the miniconf, you *must* be registered for the main Linux.conf.au conference, and presenting at the miniconf does *not* entitle speakers to registration at the main conference, or any travel sponsorship.
-
-## Important Dates
-
- * 2014-11-15 Deadline for early submissions
- * 2014-11-20 Early submissions confirmation
- * 2014-11-25 Deadline for all submissions
- * 2014-12-1  Confirmation for submissions
- * 2014-12-2  Final speaker confirmation required
- * 2014-12-4  Final schedule announced
- * 2015-01-12 Miniconf (first day of Linux.conf.au 2015)
+"Software-defined everything," DevOps, and cloud are driving open source further and faster than we might have imagined possible just a decade ago. Most recently, Docker containers and orchestration have opened up all kinds of new opportunities to develop, deploy, and manage software from the developer's desktop well into production.
 
 ## Schedule 
 
-The schedule will be announced on 4 December 2014. 
+<table border="1">
+<tr><td><strong><h2>Time</h2></strong></td><td><strong><h2>Talk</h2></strong></td><td><strong><h2>Speaker</h2></strong></td></tr>
+<tr><td><h3>10:40 - 11:15</h3></td><td><h3><a href="http://dissociatedpress.net/miniconf/herding/">Cloud Herding: Delivering Services Across Multiple Environments</a></h3></td><td><h3>John Mark Walker</h3></td></tr>
+<tr><td><h3>11:15 - 11:45</h3></td><td><h3><a href="http://dissociatedpress.net/miniconf/lxd/">LXD: The Container-Based Hypervisor that Isn't</a></h3></td><td><h3>Tycho Andersen</h3></td></tr>
+<tr><td><h3>11:45 - 11:50</h3></td><td><h3>Break</h3></td><td>&nbsp;</td></tr>
+<tr><td><h3>11:50 - 12:20</h3></td><td><h3><a href="http://dissociatedpress.net/miniconf/rocket/">Rocket and the App Container Spec</a></h3></td><td><h3>Brandon Philips</h3></td></tr>
+<tr><td><h3>12:10 - 13:20</h3></td><td><h3>Lunch</h3></td><td>&nbsp;</td></tr>
+<tr><td><h3>13:20 - 13:45</h3></td><td><h3><a href="http://dissociatedpress.net/miniconf/aws/">AWS OpsWorks Orchestration War Stories</a></h3></td><td><h3>Andrew Boag</h3></td></tr>
+<tr><td><h3>13:45 - 14:05</h3></td><td><h3><a href="http://dissociatedpress.net/miniconf/slim/">Slim Aplication Containers from Source</a></h3></td><td><h3>Sven Dowideit</h3></td></tr>
+<tr><td><h3>14:05 - 14:15</h3></td><td><h3>Break</h3></td><td>&nbsp;</td></tr>
+<tr><td><h3>14:15 - 14:35</h3></td><td><h3><a href="http://dissociatedpress.net/miniconf/pcp/">Containers and PCP (Performance Co-Pilot)</a></h3></td><td><h3>Nathan Scott</h3></td></tr>
+<tr><td><h3>14:35 - 15:00</h3></td><td><h3><a href="http://dissociatedpress.net/miniconf/challenges/">The Challenges of Containerizing your Datacenter</a></h3></td><td><h3>Daniel Hall</h3></td></tr>
+<tr><td><h3>15:00 - 15:40</h3></td><td><h3>Afternoon Tea</h3></td><td>&nbsp;</td></tr>
+<tr><td><h3>15:40 - 16:00</h3></td><td><h3><a href="http://dissociatedpress.net/miniconf/building/">Building a PaaS with Docker, Kubernetes, and Hard Work</a></h3></td><td><h3>Steven Pousty</h3></td></tr>
+<tr><td><h3>16:00 - 16:25</h3></td><td><h3><a href="http://dissociatedpress.net/miniconf/synchronous/">How Synchronous Replication and Linux Containers Mesh Together</a></h3></td><td><h3>Raghavendra Prabhu</h3></td></tr>
+<tr><td><h3>16:25 - 17:15</h3></td><td><h3><a href="http://dissociatedpress.net/miniconf/panel/">Container, Orchestration, Cloud Panel</a></h3></td><td><h3>Katie Miller</h3></td></tr>
+</table>
 
 ## Code of Conduct ##
 
